@@ -1,1 +1,8 @@
+ <party>
 
+    <field name="Bug 1">Block</field>
+    <field name="Bug 2">Critical</field>
+    <field name="Bug 3">Poker</field>
+
+ </party>
+    
