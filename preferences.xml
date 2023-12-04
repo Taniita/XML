@@ -1,0 +1,9 @@
+ <party>
+        
+    <field name="favourite_film">The_Fast_and_the_Furious</field>
+    <field name="favourite_series">Game of Thrones</field>
+    <field name="favourite_food">spicy_food</field>
+    <field name="favourite_season">winter</field>
+    <field name="What_country_you_would_like_to_visit">Canada</field>
+
+   </patry>

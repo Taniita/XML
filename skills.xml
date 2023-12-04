@@ -1,0 +1,14 @@
+ <party>
+
+    <field name="hard_skills">Understanding of software testing and development processes</field>
+    <field name="hard_skills">Understanding_Testing_Basics</field>
+    <field name="hard_skills">Working_with_test_documentation</field>
+    <field name="hard_skills">Ability_to_write_defect_reports</field>
+    <field name="hard_skills">Knowledge_of_testing_methodologies</field>
+
+    <field name="soft_skills>Skill_to_work_in_team</field>
+    <field name="soft_skills>Friendliness_when_communicating_with_colleagues</field>
+    <field name="soft_skills>Punctuality_and_organization</field>
+    <field name="soft_skills>Ability_to_solve_complex_problems</field>
+
+   </party>
