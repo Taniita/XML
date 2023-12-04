@@ -1,0 +1,10 @@
+ <party>
+
+    <field name="first_name">Tanya</field>
+    <field name="last_name">Svechkina</field>
+    <field name="father_name">Igorevna</field>
+    <field name="age">22</field>
+    <field name="number_of_pets">0</field>
+    <field name="desired_salary">1000</field>
+
+   </party>
